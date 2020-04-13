@@ -94,6 +94,7 @@ int main(){
 			cout << getAnswer(x, y) << endl;
 		}
 	}
+	
 	return 0;
 }
 
